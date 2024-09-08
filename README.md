@@ -7,7 +7,7 @@ Calculating the immersion-related probability for a single review.
 Processing an Excel file to calculate immersion-related probabilities for all reviews in the text column.
 Download Files
 All necessary files, including the Python scripts and pre-trained BERT model, can be downloaded from OneDrive:
-Download from OneDrive (https://tuni-my.sharepoint.com/:f:/g/personal/xiaohang_deng_tuni_fi/Eq4Oc9uKckhDi_rO7vF6KvoBYHM2UB1zOCtX7qTPANPYPQ?e=0JOwIr)
+Download from OneDrive ([https://tuni-my.sharepoint.com/:f:/g/personal/xiaohang_deng_tuni_fi/Eq4Oc9uKckhDi_rO7vF6KvoBYHM2UB1zOCtX7qTPANPYPQ?e=0JOwIr](https://tuni-my.sharepoint.com/:f:/g/personal/xiaohang_deng_tuni_fi/EuvoshtTUyVDrhpAgzrIkY8B65jpKR2ovLCTpfYRoX88kw?e=fQW2tK))
 
 Please ensure the files are placed in the same directory as the scripts for proper execution.
 
