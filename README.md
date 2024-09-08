@@ -5,18 +5,18 @@ This repository provides Python scripts and pre-trained BERT models for detectin
 
 Calculating the immersion-related probability for a single review.
 Processing an Excel file to calculate immersion-related probabilities for all reviews in the text column.
-##Download Files
+## Download Files
 All necessary files, including the Python scripts and pre-trained BERT model, can be downloaded from OneDrive:
 Download from OneDrive https://tuni-my.sharepoint.com/:f:/g/personal/xiaohang_deng_tuni_fi/EuvoshtTUyVDrhpAgzrIkY8B65jpKR2ovLCTpfYRoX88kw?e=hf6VMW
 
 Please ensure the files are placed in the same directory as the scripts for proper execution.
 
-##Setup and Installation
+## Setup and Installation
 Clone the repository
 Clone this repository to your local machine:
 git clone https://github.com/yourusername/VR-Game-Review-Immersion-BERT-Model.git
 
-##Install dependencies
+## Install dependencies
 Install the required Python libraries using requirements.txt:
 pip install -r requirements.txt
 
@@ -30,7 +30,7 @@ tqdm
 openpyxl
 matplotlib
 
-##Usage
+## Usage
 Single Review Classification
 To calculate the immersion probability for a single review, use the single_review.py script. Example:
 python single_review.py "This VR game provides an immersive experience!"
@@ -50,5 +50,5 @@ If you use this code for your research, please cite it as follows:
 Deng, D., Bujic, M., Lee, W., Li, M., & Hamari, J. (2024). Self-avatar representation matters: Deciphering user immersion in VR games through Steam reviews. In 8th International GamiFIN Conference, GamiFIN 2024.
 
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
